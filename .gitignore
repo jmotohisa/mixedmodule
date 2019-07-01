@@ -1,0 +1,8 @@
+__pycache__/
+build/
+_hello*
+_hello*/
+
+hello_wrap.c
+hello.pyf
+hello.py
